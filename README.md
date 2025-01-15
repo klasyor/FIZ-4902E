@@ -8,3 +8,5 @@
 #If you are going to use .ipynb, use it in your jupyter lab or any other environment that can run it.
 
 #Explanations of functions and classes are defined in path_spin0 files
+
+#Downloading pylatexenc.latex2text in order to see equations in latex format is highly encouraged.
